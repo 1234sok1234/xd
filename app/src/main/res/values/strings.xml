@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Figurki</string>
+    <string name="button1">Figura</string>
+    <string name="button2">Cecha</string>
+    <string name="button3">Pole</string>
+    <string name="liczbac">0</string>
+    <string name="liczbas">0</string>
+    <string name="liczbat">0</string>
+    <string name="menu_action_setting">Ustawienia</string>
+    <string name="menu_stats">Statystyki</string>
+</resources>
